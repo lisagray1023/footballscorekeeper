@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jugador de fútbol</string>
+    <string name="team_a">Equipo A</string>
+    <string name="touchdown">Aterrizaje</string>
+    <string name="extra_point">Punto extra</string>
+    <string name="two_point_conversion">Conversión de 2 puntos</string>
+    <string name="field_goal">Gol de campo</string>
+    <string name="team_b">Equipo B</string>
+    <string name="reset">Reiniciar</string>
+</resources>
